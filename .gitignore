@@ -1,0 +1,12 @@
+
+node_modules/
+data/
+.env
+npm-debug.log*
+client/node_modules/
+client/dist/
+.vscode/
+output/
+*.exe
+hello.cpp
+Leetcode11.cpp
